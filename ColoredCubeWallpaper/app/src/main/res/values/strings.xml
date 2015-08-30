@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ColoredCubeWallpaper</string>
+    <string name="title_activity_my_preferences">MyPreferencesActivity</string>
+    <string name="wallpaper_description">Insert Wallpaper Description here</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="lesson_three_wallpaper_1">Using GLSurfaceView</string>
+    <string name="lesson_three_wallpaper_2">Using re-implementation of GLSurfaceView</string>
+    <string name="lesson_three_wallpaper_3">Switching implementations</string>
+</resources>
